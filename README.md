@@ -169,8 +169,8 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 ---
 <!-- <br/>
 [![](https://visitcount.itsvg.in/api?id=Ali-shah&icon=4&color=0)](https://visitcount.itsvg.in) -->
-<a align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
+<a  href="https://visitcount.itsvg.in">
+  <img align="center" src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
 </a>
 
 
