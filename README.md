@@ -159,8 +159,17 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 
 <br/><br/>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Ali-Siraj&column=7" alt="Ali Siraj's Github Trophy" />
+<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ali-Siraj&column=7" alt="Ali Siraj's Github Trophy" />
+<br/> -->
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ali shah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 <br/>
+[![](https://visitcount.itsvg.in/api?id=Ali shah&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 <h4 align="center">
   <a href="https://github.com/Ali-Siraj?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
