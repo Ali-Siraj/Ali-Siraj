@@ -157,7 +157,7 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 
 <hr>
 
-<br/><br/>
+<br/>
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Ali-Siraj&column=7" alt="Ali Siraj's Github Trophy" />
 <br/> -->
@@ -168,8 +168,8 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 
 ---
 <!-- <br/>
-[![](https://visitcount.itsvg.in/api?id=Ali shah&icon=4&color=0)](https://visitcount.itsvg.in) -->
-<a href="https://visitcount.itsvg.in">
+[![](https://visitcount.itsvg.in/api?id=Ali-shah&icon=4&color=0)](https://visitcount.itsvg.in) -->
+<a align="center" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
 </a>
 
