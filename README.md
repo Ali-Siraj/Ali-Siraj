@@ -169,10 +169,11 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 ---
 <!-- <br/>
 [![](https://visitcount.itsvg.in/api?id=Ali-shah&icon=4&color=0)](https://visitcount.itsvg.in) -->
-<a  href="https://visitcount.itsvg.in">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
-</a>
-
+<div align="center">
+  <a  href="https://visitcount.itsvg.in">
+    <img align="center" src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
+  </a>
+</div>
 
 <h4 align="center">
   <a href="https://github.com/Ali-Siraj?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
