@@ -167,8 +167,11 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 ![](https://github-profile-trophy.vercel.app/?username=Ali shah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<br/>
-[![](https://visitcount.itsvg.in/api?id=Ali shah&icon=4&color=0)](https://visitcount.itsvg.in)
+<!-- <br/>
+[![](https://visitcount.itsvg.in/api?id=Ali shah&icon=4&color=0)](https://visitcount.itsvg.in) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ali-Siraj&label=Profile%20Views&icon=0&pretty=true" />
+</a>
 
 
 <h4 align="center">
