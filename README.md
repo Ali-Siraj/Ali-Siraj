@@ -164,7 +164,7 @@ Feel free to connect with me Ali3Siraj@gmail.com for all things tech or just to 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Ali shah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ali-Siraj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 <!-- <br/>
